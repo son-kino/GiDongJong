@@ -1,0 +1,1 @@
+print("haha i'm fast!")
